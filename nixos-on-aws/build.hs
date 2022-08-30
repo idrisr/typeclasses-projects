@@ -1,5 +1,5 @@
 #! /usr/bin/env stack
--- stack --resolver lts-11.8 script --no-nix-pure
+-- stack --resolver lts script --no-nix-pure
 
 {-# LANGUAGE OverloadedStrings #-}
 
